@@ -2,8 +2,8 @@ from django.contrib import admin
 from .models import CustomUser, UserEmailCheck, Preferences, DeletedUser
 
 
-class UserEmailCheckAdmin(admin.ModelAdmin):
-    fields = ['user',  'uri_key', 'user_email', 'date']
+# class UserEmailCheckAdmin(admin.ModelAdmin):
+#     fields = ['user',  'uri_key', 'user_email', 'date']
 
 
 # Register your models here.

@@ -26,5 +26,5 @@ urlpatterns = [
     path('usuario/editar/preferencias/<int:pk>/', EditPreferencesView.as_view(), name="edit_preferences"),
     path('usuario/editar/password/', change_password_method, name="change_password"),
     path('usuario/profile/', ProfileView.as_view(), name="profile_view"),
-    path('delete/<str:username>', delete_user, name='remove_account'),
+    path('delete/<str:username>/', delete_user, name='remove_account'),
 ]

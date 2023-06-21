@@ -1,6 +1,6 @@
-## Sistema-Basico-com-Django
-# Base Django com usuário e políticas
-Sistema Django, base de projetos que necessitem conta de usuário.
+# Sistema-Basico-com-Django
+## Base Django com usuário e políticas
+Sistema base para projetos que necessitem Conta de Usuário.
 Features:
 - Conta de usuário
 - Verificação do E-mail
@@ -15,5 +15,7 @@ Features:
 - Apagar minha conta
 - Controle de ID e Email de contas apagadas
 
-Criado por: Fabrício Silva
-Minas Gerais , Brasil
+### Criado por: 
+Fabrício Silva
+
+Minas Gerais, Brasil

@@ -1,7 +1,6 @@
 # Sistema-Basico-com-Django
-## Base Django com usuário e políticas
-Sistema base para projetos que necessitem Conta de Usuário.
-Features:
+## Sistema base para projetos que necessitem Conta de Usuário
+### Features:
 - Conta de usuário
 - Verificação do E-mail
 - Recuperação da senha

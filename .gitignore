@@ -151,8 +151,3 @@ dmypy.json
 
 # Cython debug symbols
 cython_debug/
-
-# Outros específicos para Projeto Mentoreto
-codigo_nao_aproveitado.txt
-referencias bibliograficas.txt
-registros.txt
